@@ -31,7 +31,7 @@ experience:
     date_end: '2022-03-01'
     description: |2-
         Responsibilities include:
-        * Software development based on  industrial Internet platform Xuelang OS.
+        * Software development based on  industrial Internet platform *Xuelang OS*.
         * Providing intelligent system solutions for factories.
 
   - title: Research Intern
@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant
     company: State Key Laboratory of Fluid Power & Mechatronic System, Zhejiang University
     company_url: 'http://sklofp.zju.edu.cn/sklen/'
-    company_logo: 
+    company_logo: zju
     location: Hangzhou, China
     date_start: '2019-03-01'
     date_end: '2020-06-15'
