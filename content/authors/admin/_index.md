@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-- name: TUM
-url: "www.tum.de/en"
+# - name: TUM
+# url: "www.tum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, mobile computing and programmable matter.
