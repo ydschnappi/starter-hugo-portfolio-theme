@@ -30,8 +30,6 @@ content:
       tag: '*'
     - name: ROS
       tag: ROS
-    - name: Embedded Systems
-      tag: ES
     - name: Parallel Programming
       tag: PP
 
