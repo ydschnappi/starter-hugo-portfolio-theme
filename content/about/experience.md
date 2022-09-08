@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Business Architect Intern, Department of Machine Intelligence
+    company: Wuxi Xuelang Industrial Intelligence Technology Co., Ltd.
+    company_url: 'www.xuelangyun.com'
+    company_logo: 
+    location: Hangzhou, China
+    date_start: '2021-08-01'
+    date_end: '2022-03-01'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Software development based on  industrial Internet platform Xuelang OS.
+        * Providing intelligent system solutions for factories.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Dresden University of Technology
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-07-15'
+    date_end: '2019-09-08'
+    description: |2- 
+      * Model-based software development using SIMULINK framework for Lego Mindstorm.
+      * Test and optimization of algorithms for autonomous driving.
+
+  - title: Research Assistant
+  company: State Key Laboratory of Fluid Power & Mechatronic System, Zhejiang University
+  company_url: 'http://sklofp.zju.edu.cn/sklen/'
+  company_logo: 
+  location: Hangzhou, China
+  date_start: '2019-03-01'
+  date_end: '2020-06-15'
+  description: Soft robot controller design and debugging.
 
 design:
   columns: '1'

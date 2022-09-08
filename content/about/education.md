@@ -28,7 +28,7 @@ experience:
     company_logo: tum
     location: Munich, Germany
     date_start: '2021-04-01'
-    date_end: '2023-09-30'
+    date_end: ''
     description: |2-
         * ROBOTICS
         * AI
