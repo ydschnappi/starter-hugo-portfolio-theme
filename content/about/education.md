@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Munich, Germany
-    date_start: '2021-04'
-    date_end: '2023- '
+    date_start: '2021-04-01'
+    date_end: ''
     description: |2-
         * Dissertation on Y
         * Basketball team
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Hangzhou, China
-    date_start: '2016-09'
-    date_end: '2020-06'
+    date_start: '2016-09-01'
+    date_end: '2020-06-30'
     description: My dissertation was on X
 
 design:
