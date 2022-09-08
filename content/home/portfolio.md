@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: ROS
       tag: ROS
-    - name: Computer Vision
-      tag: Navigation
-    - name: NLP
-      tag: NLP
+    - name: Embedded Systems
+      tag: ES
+    - name: Parallel Programming
+      tag: PP
 
 design:
   columns: '1'

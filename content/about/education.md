@@ -37,7 +37,7 @@ experience:
   - title: BEng Mechatronics Engineering
     company: Zhejiang University
     company_url: 'https://www.zju.edu.cn/english'
-    company_logo: 
+    company_logo: zju
     location: Hangzhou, China
     date_start: '2016-09-01'
     date_end: '2020-06-30'
