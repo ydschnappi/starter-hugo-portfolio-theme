@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: ROS
       tag: ROS
     - name: Computer Vision
       tag: Navigation
