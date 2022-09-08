@@ -28,7 +28,7 @@ experience:
     company_logo: org-x
     location: Munich, Germany
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2023-09-30'
     description: |2-
         * Dissertation on Y
         * Basketball team
