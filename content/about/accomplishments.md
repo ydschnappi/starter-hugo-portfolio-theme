@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://courses.edx.org/certificates/46f847af8d444845baeb4a7f862c1235
     date_end: ''
     date_start: '2022-04-01'
     description: Frontend programming skills.
