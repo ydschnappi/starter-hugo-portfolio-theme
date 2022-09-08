@@ -46,13 +46,13 @@ experience:
       * Test and optimization of algorithms for autonomous driving.
 
   - title: Research Assistant
-  company: State Key Laboratory of Fluid Power & Mechatronic System, Zhejiang University
-  company_url: 'http://sklofp.zju.edu.cn/sklen/'
-  company_logo: 
-  location: Hangzhou, China
-  date_start: '2019-03-01'
-  date_end: '2020-06-15'
-  description: Soft robot controller design and debugging.
+    company: State Key Laboratory of Fluid Power & Mechatronic System, Zhejiang University
+    company_url: 'http://sklofp.zju.edu.cn/sklen/'
+    company_logo: 
+    location: Hangzhou, China
+    date_start: '2019-03-01'
+    date_end: '2020-06-15'
+    description: Soft robot controller design and debugging.
 
 design:
   columns: '1'
