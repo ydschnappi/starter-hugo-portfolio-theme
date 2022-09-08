@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 # url: "www.tum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, control theory, SLAM.
 
 #interests:
 #- Artificial Intelligence

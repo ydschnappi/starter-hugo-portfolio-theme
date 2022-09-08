@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tag: ML
+      tag: ROS
     - name: Computer Vision
-      tag: CV
+      tag: Navigation
     - name: NLP
       tag: NLP
 
