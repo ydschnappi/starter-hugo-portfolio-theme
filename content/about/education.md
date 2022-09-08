@@ -25,7 +25,7 @@ experience:
   - title: Msc Mechatronics and Robotics
     company: Technical University of Munich
     company_url: 'https://www.tum.de/en'
-    company_logo: org-x
+    company_logo: tum
     location: Munich, Germany
     date_start: '2021-04-01'
     date_end: '2023-09-30'
@@ -37,7 +37,7 @@ experience:
   - title: BEng Mechatronics Engineering
     company: Zhejiang University
     company_url: 'https://www.zju.edu.cn/english'
-    company_logo: 'static/uploads/tum.png'
+    company_logo: 
     location: Hangzhou, China
     date_start: '2016-09-01'
     date_end: '2020-06-30'
