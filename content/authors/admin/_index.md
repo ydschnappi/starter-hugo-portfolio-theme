@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: github
-  icon_pack: fab
-  link: https://github.com/ydschnappi
+- icon: github
+icon_pack: fab
+link: https://github.com/ydschnappi
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'dian.yuan@tum.de' # For a direct email link, use "mailto:test@example.org".
