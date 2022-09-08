@@ -24,24 +24,24 @@ date_format: Jan 2006
 experience:
   - title: Msc Mechatronics and Robotics
     company: Technical University of Munich
-    company_url: ''
+    company_url: 'https://www.tum.de/en'
     company_logo: org-x
     location: Munich, Germany
     date_start: '2021-04-01'
     date_end: '2023-09-30'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * ROBOTICS
+        * AI
+        * SLAM
 
   - title: BEng Mechatronics Engineering
     company: Zhejiang University
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.zju.edu.cn/english'
+    company_logo: 'static/uploads/tum.png'
     location: Hangzhou, China
     date_start: '2016-09-01'
     date_end: '2020-06-30'
-    description: My dissertation was on X
+    description: My dissertation was on factory production simulation, process optimization, digital twin.
 
 design:
   columns: '1'
