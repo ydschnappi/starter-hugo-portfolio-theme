@@ -42,6 +42,8 @@ social:
 - icon: github
 icon_pack: fab
 link: https://github.com/ydschnappi
+
+social:
 - icon: envelope
 icon_pack: fas
 link: 'dian.yuan@tum.de' # For a direct email link, use "mailto:test@example.org".
