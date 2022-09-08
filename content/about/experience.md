@@ -36,9 +36,9 @@ experience:
 
   - title: Research Intern
     company: Dresden University of Technology
-    company_url: ''
-    company_logo: org-x
-    location: California
+    company_url: 'https://tu-dresden.de/'
+    company_logo: tud
+    location: Dresden, Germany
     date_start: '2019-07-15'
     date_end: '2019-09-08'
     description: |2- 
