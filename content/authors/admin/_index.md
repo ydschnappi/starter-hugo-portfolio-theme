@@ -64,6 +64,6 @@ social:
 #email: ""
 ---
 
-Dian Yuan is a master student in Mechatronics and Robotics at the Technical University of Munich. His research interests robotics, control theory and SLAM. Before that, he received bachelor degree of Engineering at Zhejiang University .
+Dian Yuan is a master student in Mechatronics and Robotics at the Technical University of Munich. His research interests include robotics, control theory and SLAM. Before that, he received bachelor degree of Engineering at Zhejiang University .
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

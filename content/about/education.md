@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: |2-
         * ROBOTICS
-        * AI
         * SLAM
+        * AI
 
   - title: BEng Mechatronics Engineering
     company: Zhejiang University
