@@ -18,7 +18,7 @@ status:
 # url: "www.tum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, control theory, SLAM.
+bio: Master student at TUM. Travel around Europa.
 
 #interests:
 #- Artificial Intelligence
