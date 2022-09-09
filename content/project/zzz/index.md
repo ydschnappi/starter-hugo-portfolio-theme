@@ -2,9 +2,9 @@
 title: F1/10 racecar
 summary:  |2-
     Lidar based autonomous driving.
-    * Follow the gap/wall algorithm.
-    * Automatic Emergency Braking (AES) system.
-    * SLAM with `laser_scan_matcher`
+    - Follow the gap/wall algorithm.
+    - Automatic Emergency Braking (AES) system.
+    - SLAM with `laser_scan_matcher`
 tags:
   - ROS
   - Autonomous Driving
