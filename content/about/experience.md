@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Business Architect Intern, Department of Machine Intelligence
     company: Wuxi Xuelang Industrial Intelligence Technology Co., Ltd.
-    company_url: 'www.xuelangyun.com'
+    company_url: 'https://www.xuelangyun.com'
     company_logo: 
     location: Hangzhou, China
     date_start: '2021-08-01'
