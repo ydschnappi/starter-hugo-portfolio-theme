@@ -1,5 +1,5 @@
 ---
-title: F1/10 racecar （Nvidia jetson
+title: F1/10 racecar （Nvidia Jetson）
 summary:  |2-
     ### Lidar based autonomous driving.
     - Follow the gap/wall algorithm.
