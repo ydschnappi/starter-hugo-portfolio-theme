@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Working student for Software Engineering in Robotics
+    company: Fraunhofer Institute for Cognitive Systems IKS
+    company_url: 'https://www.iks.fraunhofer.de/en.html'
+    company_logo: iks
+    location: Munich, Germany
+    date_start: '2022-11-15'
+  
   - title: Business Architect Intern, Department of Machine Intelligence
     company: Wuxi Xuelang Industrial Intelligence Technology Co., Ltd.
     company_url: 'https://www.xuelangyun.com'
