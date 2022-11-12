@@ -38,8 +38,8 @@ experience:
     company_url: 'https://www.xuelangyun.com'
     company_logo: xly
     location: Hangzhou, China
-    date_start: '2021-08-01'
-    date_end: '2022-03-01'
+    date_start: '2020-08-01'
+    date_end: '2021-03-01'
     description: |2-
         Responsibilities include:
         * Software development based on  industrial Internet platform *Xuelang OS*.
