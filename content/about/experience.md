@@ -29,6 +29,8 @@ experience:
     company_logo: iks
     location: Munich, Germany
     date_start: '2022-11-15'
+    date_end: ''
+    description: ''
   
   - title: Business Architect Intern, Department of Machine Intelligence
     company: Wuxi Xuelang Industrial Intelligence Technology Co., Ltd.

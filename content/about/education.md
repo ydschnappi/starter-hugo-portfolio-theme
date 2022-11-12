@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: |2-
         * ROBOTICS
-        * SLAM
-        * AI
+        * Path Planning
+        * Control Theory
 
   - title: BEng Mechatronics Engineering
     company: Zhejiang University
