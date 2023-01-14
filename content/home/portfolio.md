@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: ROS
       tag: ROS
-    - name: Parallel Programming
+    - name: Programming Project
       tag: PP
 
 design:
