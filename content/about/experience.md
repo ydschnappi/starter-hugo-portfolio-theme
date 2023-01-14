@@ -31,7 +31,9 @@ experience:
     location: Munich, Germany
     date_start: '2022-11-15'
     date_end: ''
-    description: ''
+    description: |2-
+      * Model-based software development for robots.
+      * Capella; ROS2; Webots.
   
   - title: Business Architect Intern, Department of Machine Intelligence
     company: Wuxi Xuelang Industrial Intelligence Technology Co., Ltd.
@@ -42,7 +44,7 @@ experience:
     date_end: '2021-03-01'
     description: |2-
         Responsibilities include:
-        * Software development based on  industrial Internet platform *Xuelang OS*.
+        * Software development based on industrial Internet platform *Xuelang OS*.
         * Providing intelligent system solutions for factories.
 
   - title: Research Intern
