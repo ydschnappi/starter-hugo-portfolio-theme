@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dian.yuan@tum.de' # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dianyuantum/?locale=en_US
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/wowchemy
