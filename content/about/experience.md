@@ -24,7 +24,18 @@ date_format: Jan 2006
 
 experience:
 
-  - title: Working student for Software Engineering in Robotics
+  - title: Intern and Master Thesis Student
+    company: Fraunhofer Institute for Casting, Composite and Processing Technology IGCV
+    company_url: 'https://www.igcv.fraunhofer.de/en.html'
+    company_logo: igcv
+    location: Munich, Germany
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+      * Android App development.
+      * VR scenario development
+
+  - title: Working Student for Software Engineering in Robotics
     company: Fraunhofer Institute for Cognitive Systems IKS
     company_url: 'https://www.iks.fraunhofer.de/en.html'
     company_logo: iks
