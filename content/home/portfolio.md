@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: ROS
+    - name: Robotics
       tag: ROS
     - name: Programming Project
       tag: PP
