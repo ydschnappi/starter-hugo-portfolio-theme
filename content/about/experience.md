@@ -32,8 +32,9 @@ experience:
     date_start: '2023-06-01'
     date_end: ''
     description: |2-
-      * Android App development.
-      * VR scenario development
+      * Android App and server development.
+      * Robotic arm control and path planning.
+      * MR scenario development with HoloLens 2.
 
   - title: Working Student for Software Engineering in Robotics
     company: Fraunhofer Institute for Cognitive Systems IKS
@@ -41,8 +42,9 @@ experience:
     company_logo: iks
     location: Munich, Germany
     date_start: '2022-11-15'
-    date_end: ''
+    date_end: '2023-05-15'
     description: |2-
+      * Multi-robot collaboration senarios development.
       * Model-based software development for robots.
       * Capella; ROS2; Webots.
   
